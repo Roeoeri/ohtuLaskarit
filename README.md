@@ -6,3 +6,6 @@
 
 ## Viikko2
 [Kaikki](https://github.com/Roeoeri/ohtuLaskarit/tree/master/viikko2)
+
+## Viikko3
+[Kaikki](https://github.com/Roeoeri/ohtuLaskarit/tree/master/viikko3)
