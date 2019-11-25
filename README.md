@@ -9,3 +9,7 @@
 
 ## Viikko3
 [Kaikki](https://github.com/Roeoeri/ohtuLaskarit/tree/master/viikko3)
+
+## Viikko4
+[Kaikki](https://github.com/Roeoeri/ohtuLaskarit/tree/master/viikko4)
+
