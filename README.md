@@ -15,3 +15,6 @@
 
 ## Viikko5
 [Kaikki](https://github.com/Roeoeri/ohtuLaskarit/tree/master/viikko5)
+
+## Viikko6
+[1-5](https://github.com/Roeoeri/ohtuLaskarit/tree/master/viikko5)
